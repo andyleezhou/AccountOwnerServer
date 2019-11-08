@@ -1,0 +1,4 @@
+2019-01-30 22:06:08.0479 INFO Returned all owners from database.
+2019-01-30 22:19:01.8857 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-01-30 22:19:12.9866 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5621, hasn't been found in db.
+2019-01-30 23:10:09.4344 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620

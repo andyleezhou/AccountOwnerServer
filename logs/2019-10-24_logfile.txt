@@ -1,0 +1,63 @@
+2019-10-24 12:28:35.2004 INFO Returned all owners from database.
+2019-10-24 12:31:10.6760 INFO Returned all owners from database.
+2019-10-24 13:05:21.3892 INFO Returned all owners from database.
+2019-10-24 13:05:37.2266 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 13:05:48.4800 ERROR Owner with id: 00000000-0000-0000-0000-000000000000, hasn't been found in db.
+2019-10-24 14:25:41.4450 INFO Returned all owners from database.
+2019-10-24 14:25:51.6167 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 14:26:08.6413 INFO Returned all owners from database.
+2019-10-24 14:26:24.6714 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 14:26:53.7796 INFO Returned all owners from database.
+2019-10-24 14:27:03.1631 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-10-24 14:33:02.0079 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-10-24 14:43:59.5714 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-10-24 14:44:06.6065 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-10-24 14:45:00.6393 INFO Returned all owners from database.
+2019-10-24 14:46:15.8437 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 14:48:35.8278 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 14:49:15.9503 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 14:57:26.4655 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5620, hasn't been found in db.
+2019-10-24 14:57:35.9403 INFO Returned all owners from database.
+2019-10-24 14:57:44.7534 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5620, hasn't been found in db.
+2019-10-24 15:07:48.8685 INFO Returned all owners from database.
+2019-10-24 15:08:00.9078 ERROR Owner with id: cae77f74-6dcc-404e-9114-6d90f2b90368, hasn't been found in db.
+2019-10-24 15:08:30.3097 INFO Returned all owners from database.
+2019-10-24 15:09:07.7270 ERROR Owner with id: cae77f74-6dcc-404e-9114-6d90f2b90368, hasn't been found in db.
+2019-10-24 15:09:13.8705 ERROR Owner with id: cae77f74-6dcc-404e-9114-6d90f2b90368, hasn't been found in db.
+2019-10-24 15:11:32.4351 ERROR Owner with id: cae77f74-6dcc-404e-9114-6d90f2b90368, hasn't been found in db.
+2019-10-24 15:11:46.3654 INFO Returned all owners from database.
+2019-10-24 15:11:55.9738 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5620, hasn't been found in db.
+2019-10-24 15:14:16.9129 INFO Returned all owners from database.
+2019-10-24 15:14:25.1833 ERROR Owner with id: a3c1880c-674c-4d18-8f91-5d3608a2c937, hasn't been found in db.
+2019-10-24 15:15:57.4217 INFO Returned all owners from database.
+2019-10-24 15:17:37.6213 ERROR Owner with id: a3c1880c-674c-4d18-8f91-5d3608a2c937, hasn't been found in db.
+2019-10-24 15:20:27.5170 INFO Returned owner with id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-10-24 15:20:32.3119 INFO Returned owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-10-24 15:25:49.5235 INFO Returned owner with id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-10-24 15:25:55.4659 ERROR Something went wrong inside DeleteOwner action: An error occurred while updating the entries. See the inner exception for details.
+2019-10-24 15:26:46.1797 ERROR Something went wrong inside DeleteOwner action: An error occurred while updating the entries. See the inner exception for details.
+2019-10-24 15:27:22.9829 INFO Returned all owners from database.
+2019-10-24 15:27:52.0336 INFO Returned owner with id: cae77f74-6dcc-404e-9114-6d90f2b90368
+2019-10-24 15:33:59.3200 INFO Returned owner with id: cae77f74-6dcc-404e-9114-6d90f2b90368
+2019-10-24 15:34:02.4409 ERROR Something went wrong inside DeleteOwner action: Unknown column 'a.OwnerId' in 'field list'
+2019-10-24 15:34:31.6858 INFO Returned all owners from database.
+2019-10-24 15:34:40.5802 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 15:34:44.0912 ERROR Something went wrong inside DeleteOwner action: Unknown column 'a.OwnerId' in 'field list'
+2019-10-24 15:35:25.1276 ERROR Something went wrong inside DeleteOwner action: Unknown column 'a.OwnerId' in 'field list'
+2019-10-24 15:35:28.7039 ERROR Something went wrong inside DeleteOwner action: Unknown column 'a.OwnerId' in 'field list'
+2019-10-24 15:36:26.8825 ERROR Something went wrong inside DeleteOwner action: Unknown column 'a.OwnerId' in 'field list'
+2019-10-24 15:37:11.1475 ERROR Something went wrong inside DeleteOwner action: Unknown column 'a.OwnerId' in 'field list'
+2019-10-24 15:38:27.5091 ERROR Something went wrong inside DeleteOwner action: Unknown column 'a.OwnerId' in 'field list'
+2019-10-24 15:39:01.8375 ERROR Something went wrong inside DeleteOwner action: Unknown column 'a.OwnerId' in 'field list'
+2019-10-24 15:39:13.1740 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 15:41:31.9985 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 15:42:39.4096 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 15:57:10.7977 ERROR Something went wrong inside GetOwnerWithDetails action: Unable to connect to any of the specified MySQL hosts.
+2019-10-24 15:57:19.6831 ERROR Something went wrong inside GetOwnerWithDetails action: Unable to connect to any of the specified MySQL hosts.
+2019-10-24 15:57:31.0176 INFO Returned all owners from database.
+2019-10-24 15:58:25.6045 INFO Returned all owners from database.
+2019-10-24 15:58:35.3987 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 15:59:36.5103 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 16:05:59.8083 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 16:15:57.0264 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 16:16:43.8254 ERROR Cannot delete owner with id 261e1685-cf26-494c-b17c-3546e65f5620. Please delete realted accounts first

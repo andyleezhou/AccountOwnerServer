@@ -1,0 +1,6 @@
+2019-10-25 11:57:26.1193 ERROR Something went wrong inside GetAllOwners action: Unable to connect to any of the specified MySQL hosts.
+2019-10-25 11:57:47.1840 INFO Returned all owners from database.
+2019-10-25 11:57:53.4703 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-25 11:58:41.2485 INFO Returned all owners from database.
+2019-10-25 11:59:39.8173 INFO Returned owner with id: 011ab2e0-52b0-4525-8160-35e5fc888dc8
+2019-10-25 11:59:48.4541 INFO Returned all owners from database.

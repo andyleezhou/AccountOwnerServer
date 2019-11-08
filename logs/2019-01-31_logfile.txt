@@ -1,0 +1,5 @@
+2019-01-31 21:37:32.2338 ERROR Owner with id: 6b4ea940-229e-4178-9704-78f851a868ba, hasn't been found in db.
+2019-01-31 21:37:44.4571 ERROR Owner with id: 6b4ea940-229e-4178-9704-78f851a868ba, hasn't been found in db.
+2019-01-31 21:38:35.9734 ERROR Owner with id: 6b4ea940-229e-4178-9704-78f851a868ba, hasn't been found in db.
+2019-01-31 21:45:47.5670 ERROR Owner with id: 6b4ea940-229e-4178-9704-78f851a868ba, hasn't been found in db.
+2019-01-31 22:07:04.4056 INFO Returned owner with id: f7a33078-372b-48d8-a4dd-ec147ca2450e

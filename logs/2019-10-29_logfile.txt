@@ -1,0 +1,26 @@
+2019-10-29 12:12:26.6098 INFO Returned all owners from database.
+2019-10-29 12:15:34.8342 INFO Returned all owners from database.
+2019-10-29 13:00:40.8138 INFO Returned all owners from database.
+2019-10-29 13:00:45.7057 INFO Returned all owners from database.
+2019-10-29 13:01:30.4062 INFO Returned all owners from database.
+2019-10-29 13:02:41.3117 INFO Returned all owners from database.
+2019-10-29 13:18:29.3633 INFO Returned all owners from database.
+2019-10-29 13:18:49.3885 INFO Returned all owners from database.
+2019-10-29 13:19:36.0972 INFO Returned all owners from database.
+2019-10-29 13:19:43.8742 INFO Returned all owners from database.
+2019-10-29 13:20:01.0560 INFO Returned all owners from database.
+2019-10-29 13:20:31.5640 INFO Returned all owners from database.
+2019-10-29 13:20:39.2084 INFO Returned all owners from database.
+2019-10-29 13:30:51.7001 INFO Returned all owners from database.
+2019-10-29 13:32:59.8488 INFO Returned all owners from database.
+2019-10-29 13:33:20.0777 INFO Returned all owners from database.
+2019-10-29 13:33:24.3799 INFO Returned all owners from database.
+2019-10-29 13:36:47.1857 INFO Returned all owners from database.
+2019-10-29 13:37:32.5801 INFO Returned all owners from database.
+2019-10-29 13:37:47.7532 INFO Returned all owners from database.
+2019-10-29 13:39:05.1624 INFO Returned all owners from database.
+2019-10-29 13:39:08.0953 INFO Returned owner with details for id: 5e260457-ccd3-470b-a51a-4544f862c97a
+2019-10-29 13:39:09.2911 INFO Returned all owners from database.
+2019-10-29 13:40:03.3574 INFO Returned all owners from database.
+2019-10-29 13:40:04.8723 INFO Returned all owners from database.
+2019-10-29 13:40:23.8978 INFO Returned all owners from database.
