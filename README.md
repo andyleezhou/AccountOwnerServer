@@ -1,4 +1,4 @@
-# Account-Owner Server
+# AccountOwnerServer
 * Use AccountOwner.sql to create MySQL database.
 * Use OwnerData.sql to populate database.
 * In AccountOwnerServer/appsettings.json, set the connection string to your database.
