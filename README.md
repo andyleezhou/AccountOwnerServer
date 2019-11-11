@@ -5,5 +5,4 @@
 * Implemented a Repository pattern. Created models and model attributes. Created a context class and database connection. Created a wrapper around individual repository classes.
 * Implemented routing, GET, POST, PUT and DELETE requests, and Data Transfer Objects (DTOs).
 * Install.
-
 *The front-end application is in my AccountOwnerClient repository.
